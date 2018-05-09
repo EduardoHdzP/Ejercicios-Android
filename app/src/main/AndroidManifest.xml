@@ -16,7 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".VaciaActivity"></activity>
+        <activity android:name=".VaciaActivity" />
+        <activity android:name=".LayoutsActivity"></activity>
     </application>
 
 </manifest>

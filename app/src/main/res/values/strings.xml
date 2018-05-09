@@ -3,4 +3,14 @@
     <string name="text_usuario">Usuario</string>
     <string name="text_password">Password</string>
     <string name="text_iniciar">Iniciar</string>
+
+    <string-array name="lista_layouts">
+        <item>Layouts</item>
+        <item>LinearLayout</item>
+        <item>TableLayout</item>
+        <item>RelativeLayout</item>
+        <item>AbsoluteLayout</item>
+        <item>ConstraintLayout</item>
+        <item>FrameLayout</item>
+    </string-array>
 </resources>
